@@ -45,7 +45,7 @@ class HomePage extends StatelessWidget {
         );
 
         // Auto close the dialog after 2 seconds
-        Future.delayed(Duration(seconds: 2), () {
+        Future.delayed(Duration(seconds: 1), () {
           Navigator.of(context).pop(); // Close the dialog
         });
       });
