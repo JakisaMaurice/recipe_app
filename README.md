@@ -2,6 +2,13 @@
 
 This project is a mobile application designed for managing and exploring recipes. The app is part of the coursework for the **Mobile Computing and App Development** class in **Year Two, Semester Two**.
 
+**CONTRIBUTERS**
+1. MUNGU JAKISA MAURICE - 2300900634 - B/23/U/D0634/PS
+2. KAASA ASTHME - 2300900120 - B/23/U/D0120/PS
+3. NAMWEMEZI PARASIDE - 2300900614 - B/23/U/D0614/PS
+4. HAUMBA JOSEPH WANGUDI - 2300900599 - B/23/U/D0599/PS
+5. SEGUYA CUTHBERT KIBEDI - 2300900618 - B/23/U/D0618/PS
+
 ## Features
 - Add, edit, and delete recipes.
 - Browse and search for recipes.
