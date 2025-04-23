@@ -15,7 +15,8 @@ class RecipeApp extends StatelessWidget {
   Widget build(BuildContext context) {
     // MaterialApp is the root of the widget tree
     return MaterialApp(
-      debugShowCheckedModeBanner: false, // Hides the debug banner
+      debugShowCheckedModeBanner: false,
+       // Hides the debug banner
       home: LoginScreen(), // Sets the initial screen to LoginScreen
     );
   }

@@ -24,6 +24,10 @@ class HomePage extends StatelessWidget {
     {'image': 'assets/fries_recipe.png', 'title': 'Fries'},
     {'image': 'assets/Pizza-Rolls-Recipe.png', 'title': 'Pizza Rolls'},
     {'image': 'assets/secret-burger-sauce.png', 'title': 'Secret Burger Sauce'},
+    {
+      'image': 'assets/chocolate-indulgence.png',
+      'title': 'Chocolate Indulgence',
+    },
   ];
 
   @override

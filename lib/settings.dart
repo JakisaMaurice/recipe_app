@@ -24,6 +24,7 @@ class SettingsPage extends StatelessWidget {
             );
           },
         ),
+        
         backgroundColor: Colors.orange[800], // Set the AppBar background color.
       ),
       body: Padding(
